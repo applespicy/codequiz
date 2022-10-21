@@ -20,7 +20,7 @@ THEN I can save my initials and my score
 ```
 
 ### Github URL: 
-https://github.com/applespicy/port
+github.com:applespicy/codequiz.git
 
 
 
